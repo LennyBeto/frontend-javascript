@@ -9,16 +9,16 @@ interface Student {
 // Create two students
 const student1: Student = {
   firstName: "Alice",
-  lastName: "Kamara",
+  lastName: "Mugo",
   age: 22,
-  location: "Kampala"
+  location: "Nairobi"
 };
 
 const student2: Student = {
-  firstName: "Bob",
-  lastName: "Okello",
+  firstName: "Brian",
+  lastName: "Omollo",
   age: 24,
-  location: "Entebbe"
+  location: "Kisumu"
 };
 
 // Create an array of students
@@ -48,3 +48,4 @@ studentsList.forEach((student) => {
 });
 
 document.body.appendChild(table);
+
