@@ -1,4 +1,4 @@
-# 0x04. TypeScript
+ TypeScript
 
 This project introduces the core concepts and practical applications of TypeScript. 
 It is part of the ALX Frontend curriculum and includes multiple tasks organized into directories from task_0 to task_4.
