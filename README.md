@@ -1,9 +1,9 @@
- TypeScript
+# TypeScript
 
 This project introduces the core concepts and practical applications of TypeScript. 
 It is part of the ALX Frontend curriculum and includes multiple tasks organized into directories from task_0 to task_4.
 
-## 🧠 Learning Objectives
+## Learning Objectives
 By completing this project, you should be able to:
 
 - Understand and use basic types in TypeScript
